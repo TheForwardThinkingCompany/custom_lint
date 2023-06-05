@@ -117,9 +117,9 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "1df824be"
-      resolved-ref: "1df824be3c2b16975aac8cefb84e3cf715cab585"
-      url: "git@gitlab.com:rdani91/custom_lint.git"
+      ref: ae171e3
+      resolved-ref: ae171e3012d3f9847cc6222558eb87ee5a954bcc
+      url: "git@github.com:TheForwardThinkingCompany/custom_lint.git"
     source: git
     version: "0.4.6"
   dart_style:

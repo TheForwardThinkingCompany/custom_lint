@@ -9,5 +9,5 @@ environment:
 dependencies:
   custom_lint:
     git:
-      url: https://github.com/TheForwardThinkingCompany/custom_lint.git
+      url: git@github.com:TheForwardThinkingCompany/custom_lint.git
       ref: "ae171e3"
