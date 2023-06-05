@@ -1,0 +1,12 @@
+export 'core/assist.dart';
+export 'core/change_reporter.dart' hide ChangeReporterImpl;
+export 'core/configs.dart';
+export 'core/fixes.dart';
+export 'core/lint_codes.dart';
+export 'core/lint_rule.dart';
+export 'core/matcher.dart';
+export 'core/node_lint_visitor.dart' hide LintRegistry, LinterVisitor, NodeLintRegistry;
+export 'core/plugin_base.dart' hide runPostRunCallbacks;
+export 'core/resolver.dart' hide CustomLintResolverImpl;
+export 'core/source_range_extensions.dart';
+export 'core/type_checker.dart';
