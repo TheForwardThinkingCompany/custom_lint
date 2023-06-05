@@ -10,4 +10,4 @@ dependencies:
   custom_lint:
     git:
       url: https://github.com/TheForwardThinkingCompany/custom_lint.git
-      ref: main
+      ref: "ae171e3"
