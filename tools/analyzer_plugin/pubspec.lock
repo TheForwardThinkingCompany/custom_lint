@@ -117,8 +117,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: ae171e3
-      resolved-ref: ae171e3012d3f9847cc6222558eb87ee5a954bcc
+      ref: c800705
+      resolved-ref: c8007054d914bfcbcca976bfb8e135ddb7f3498e
       url: "git@github.com:TheForwardThinkingCompany/custom_lint.git"
     source: git
     version: "0.4.6"
@@ -318,10 +318,10 @@ packages:
     dependency: transitive
     description:
       name: vm_service
-      sha256: f3743ca475e0c9ef71df4ba15eb2d7684eecd5c8ba20a462462e4e8b561b2e11
+      sha256: c620a6f783fa22436da68e42db7ebbf18b8c44b9a46ab911f666ff09ffd9153f
       url: "https://pub.dev"
     source: hosted
-    version: "11.6.0"
+    version: "11.7.1"
   watcher:
     dependency: transitive
     description:
