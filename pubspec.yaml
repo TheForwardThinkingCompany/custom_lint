@@ -7,8 +7,9 @@ environment:
   sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
-  analyzer: ^5.7.0
-  analyzer_plugin: ^0.11.0
+  # TODO: Maaz: Update this to latest once Flutter 3.18.0 is released. Analyzer 6.3.0 and integration_test (from Flutter SDK) have a conflicting dependency that should be resolved with 3.18.0.
+  analyzer: ^6.2.0
+  analyzer_plugin: ^0.11.3
   args: ^2.3.1
   async: ^2.8.2
   ci: ^0.1.0
